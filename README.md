@@ -25,11 +25,14 @@
 ## Github
     
 <a href="https://github.com/lkrjangid1">
-  <img align="center" height="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkrjangid1&amp;theme=light&amp;hide_langs_below=1" width="295" /></a></p><p><a href="https://github.com/iampawan">
-</a>
+  <img align="center" height="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkrjangid1&amp;theme=light&amp;hide_langs_below=1" width="295" /></a>
 <a href="https://github.com/lkrjangid1">
- <img align="center" alt="Pawan's github stats" src="https://github-readme-stats.vercel.app/api?username=lkrjangid1&amp;show_icons=true&amp;theme=light&amp;line_height=27" /></a>
-  
+ <img align="center" alt="lokesh's github stats" src="https://github-readme-stats.vercel.app/api?username=lkrjangid1&amp;show_icons=true&amp;theme=light&amp;line_height=27" /></a>
+  <a href="https://github.com/lkrjangid1">
+ <img align="center" alt="lokesh's github stats" src="https://github.com/lkrjangid1/lkrjangid1-github-stats/blob/master/generated/overview.svg" /></a>
+  <a href="https://github.com/lkrjangid1">
+ <img align="center" alt="lokesh's github stats" src="https://github.com/lkrjangid1/lkrjangid1-github-stats/blob/master/generated/languages.svg" /></a>
+
 ## SKILLS
   Flutter: Intermediate
   Dart: Intermediate
