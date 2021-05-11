@@ -38,6 +38,9 @@
   <a href="https://github.com/lkrjangid1">
  <img align="center" alt="lokesh's github stats" src="https://raw.githubusercontent.com/lkrjangid1/lkrjangid1-github-stats/master/generated/languages.svg" /></a>
 
+![lkrjangid1](https://metrics.lecoq.io/lkrjangid1?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
 <br/> 
 <h2>SKILLS</h2><br/> 
 
