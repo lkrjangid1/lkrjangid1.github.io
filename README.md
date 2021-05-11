@@ -34,7 +34,9 @@ Github
   <a href="https://github.com/lkrjangid1">
  <img align="center" alt="lokesh's github stats" src="https://raw.githubusercontent.com/lkrjangid1/lkrjangid1-github-stats/master/generated/languages.svg" /></a>
 
+
 SKILLS
+
   Flutter: Intermediate
   Dart: Intermediate
   Firebase: Intermediate
@@ -45,6 +47,7 @@ SKILLS
   CSS: Intermediate
   C: Intermediate
   C++: Intermediate
+  
   
 My Projects
 
