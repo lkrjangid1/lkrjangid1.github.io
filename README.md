@@ -10,7 +10,8 @@
   <img align="left" alt="Lokesh's Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" />
 </a><br /></p><p><br /></p><p>&nbsp;- 🔭 I’m currently Flutter Intern in <a href="http://timemarks.in/">Timemarks</a> and exploring Flutter and learn new things every day about it.&nbsp;</p><p>&nbsp;- 🎓 Pursuing Bachelor of Engineering from <a href="http://mbm.ac.in/">MBM ENGINEERING COLLEGE JODHPUR</a> in Electrical Engineering.</p><p>&nbsp;- 🎄&nbsp; My hobby is Gardening.</p><p>&nbsp;-&nbsp;<span style="font-size: 20px;">🛠</span><span style="font-size: x-small;">&nbsp;</span>&nbsp;Active member of <a href="https://nssmbm.weebly.com/">NSS MBM</a>.&nbsp;&nbsp;</p><p>&nbsp;- 💬 Ask me about Flutter or any tech-related stuff.&nbsp;</p><p>&nbsp;- 😄 Pronouns: He/His&nbsp;</p><p>&nbsp;- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.</p><p><br /></p><p>&nbsp;
 
-## Languages and Tools:
+Languages and Tools:
+
 <code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="31" /></code>
 <code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="31" /></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="35" /></code>
@@ -22,7 +23,7 @@
     
       
       
-## Github
+Github
     
 <a href="https://github.com/lkrjangid1">
   <img align="center" height="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkrjangid1&amp;theme=light&amp;hide_langs_below=1" width="295" /></a>
@@ -33,7 +34,7 @@
   <a href="https://github.com/lkrjangid1">
  <img align="center" alt="lokesh's github stats" src="https://raw.githubusercontent.com/lkrjangid1/lkrjangid1-github-stats/master/generated/languages.svg" /></a>
 
-## SKILLS
+SKILLS
   Flutter: Intermediate
   Dart: Intermediate
   Firebase: Intermediate
@@ -45,12 +46,14 @@
   C: Intermediate
   C++: Intermediate
   
-## My Projects
+My Projects
+
   <a href="https://drive.google.com/file/d/1PSU4hplQJojZ4DDhSDDTN69ECxAhvPep/view?usp=sharing" style="color: #2196f3; font-family: Roboto, sans-serif; font-size: 15px; text-decoration-line: none;">MBM E-Learning Android app</a>
   <a href="https://mbmec.weebly.com/" style="color: #2196f3; font-family: Roboto, sans-serif; font-size: 15px; text-decoration-line: none;">Mbmelearning web</a>
   <a href="https://mbmlibraria.herokuapp.com/" style="color: #2196f3; font-family: Roboto, sans-serif; font-size: 15px; text-decoration-line: none;">Libraria</a>
 
-## Using Flutter
+Using Flutter
+
   <a href="https://github.com/lkrjangid1/bitcoin_tricker" style="color: #2196f3; text-decoration-line: none;">Bitcoin tricker</a>
   <a href="https://github.com/lkrjangid1/clima" style="color: #2196f3; text-decoration-line: none;">Clima</a>
   <a href="http://github.com/lkrjangid1/flashchatapp" style="color: #2196f3; text-decoration-line: none;">Flash Chat App</a>
@@ -61,19 +64,3 @@
 
 
 
-
-
-<!--
-**lkrjangid1/lkrjangid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
